@@ -36,5 +36,5 @@ botaoEnviarFoto.addEventListener("click", () => {
 
     localStorage.setItem("cadastro", JSON.stringify(converteRetorno))
 
-    window.location.href = "./abrir-conta-form -3.html"
+    window.location.href = "./abrir-conta-form-3.html"
 })
